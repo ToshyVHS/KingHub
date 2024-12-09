@@ -1,1 +1,1 @@
-return loadstring(game:HttpGet("https://raw.githubusercontent.com/ToshyWare/Obfuscated/refs/heads/main/KgUniversal.lua"))()
+game.Players.LocalPlayer:Kick("Entra Ai Po https://discord.gg/m3MQHYz3K5")
